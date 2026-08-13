@@ -1,4 +1,4 @@
-# Building a simple calculator using basic operators , variable and data types
+# Building a simple calculator using basic operators , variable and data types and conditional statement
 num1 = float(input("Enter a number :"))
 num2 = float(input("Enter a number:"))#
 operator = input("Enter operator(+,-,*,/):")
